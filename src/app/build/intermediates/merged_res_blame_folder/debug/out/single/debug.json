@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_splashpng.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable\\logo_splashpng.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rectangulo_seleccion.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable-v24\\rectangulo_seleccion.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_contenido_inicio.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\contenido_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\menu_header_menu.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\menu\\header_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_peliculas.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\fragment_peliculas.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_peliculas_favoritas.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\fragment_peliculas_favoritas.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fondo.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable\\fondo.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\anim_desplazamiento_arriba.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\anim\\desplazamiento_arriba.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_inicio.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icono_editar.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable\\icono_editar.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\transition_transicion.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\transition\\transicion.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_resultado_busqueda.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\layout_resultado_busqueda.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fondo_nav_bar.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable-v24\\fondo_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icono_favoritos_negro.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable\\icono_favoritos_negro.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_series_favoritas_fragmento.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\fragment_series_favoritas_fragmento.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\anim_layout_animacion_boton.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\anim\\layout_animacion_boton.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icono_cerrar.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable-v24\\icono_cerrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_top.jpg.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable\\top.jpg"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\anim_desplazamiento_abajo.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\anim\\desplazamiento_abajo.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_series_fragmento.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\fragment_series_fragmento.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icono_peliculas.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable-v24\\icono_peliculas.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_resultados_barra_busqueda.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\activity_resultados_barra_busqueda.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\anim_objeto_animacion_rectangulo_seleccion_abajo.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\anim\\objeto_animacion_rectangulo_seleccion_abajo.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_favorites.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\activity_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\font_abel.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\font\\abel.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_movies_favorites.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\fragment_movies_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_pelis_opciones.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\menu\\menu_pelis_opciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icono_persona.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable-v24\\icono_persona.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icono_favorito.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable-v24\\icono_favorito.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detalles_peliculas.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\activity_detalles_peliculas.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icono_email.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable\\icono_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_icono_android.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\icono_android.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icono_barra_busqueda.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable-v24\\icono_barra_busqueda.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\anim_layout_animacion_rectangulo_seleccion_abajo.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\anim\\layout_animacion_rectangulo_seleccion_abajo.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\xml_activity_splash_scene.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\xml\\activity_splash_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewholder_peliculas_top.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\viewholder_peliculas_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\anim_objeto_animacion_boton.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\anim\\objeto_animacion_boton.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_contenido_detalles_peliculas.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\contenido_detalles_peliculas.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_inicio.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\nav_header_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_icono_series.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable-v24\\icono_series.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recuadropelicula.png.flat",
+        "source": "C:\\Users\\recse\\Desktop\\Proyecto DAM - iMoviesManager - Adrian Belmonte\\Source Code\\app\\src\\main\\res\\drawable\\recuadropelicula.png"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/barra_busqueda"
+        app:showAsAction="always"
+        android:icon="@drawable/icono_barra_busqueda"
+        android:title="@string/escribe_nombre_pelicula"
+        app:actionViewClass="android.widget.SearchView"/>
+</menu>

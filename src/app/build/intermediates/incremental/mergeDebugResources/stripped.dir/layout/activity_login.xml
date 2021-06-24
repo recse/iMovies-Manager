@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFFAEC"
+    tools:context=".LoginActivity"
+    android:padding="25dp"
+    android:orientation="vertical">
+    
+        <ImageView
+            android:id="@+id/loginImageView"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/logo_splashpng"
+            android:transitionName="logoImageTrans"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/bienvenidoLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dp"
+            android:fontFamily="@font/abel"
+            android:text="Bienvenido a iMovies Manager!"
+            android:textColor="#70617C"
+            android:textSize="31sp"
+            android:textStyle="bold"
+            android:transitionName="textTrans"/>
+
+        <TextView
+            android:id="@+id/continuarLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/abel"
+            android:text="Inicia sesion para continuar."
+            android:textColor="#70617C"
+            android:textSize="24sp"
+            android:transitionName="iniciaSesionTextTrans"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:layout_marginBottom="14dp"
+            android:orientation="vertical">
+            <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp"
+                    android:id="@+id/usuarioTextField"
+                    android:transitionName="emailInputTextTrans"
+                    android:hint="Email"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <com.google.android.material.textfield.TextInputEditText
+                            android:layout_width="match_parent"
+                            android:id="@+id/emailEditText"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/abel"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="12dp"
+                    android:id="@+id/contrasenaTextField"
+                    app:passwordToggleEnabled="true"
+                    android:hint="Contraseña"
+                    android:transitionName="passwordInputTextTrans"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/passwordEditText"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/abel"
+                            android:inputType="textPassword" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+           <TextView
+                   android:id="@+id/olvidasteContra"
+                   android:layout_width="250dp"
+                   android:layout_height="wrap_content"
+                   android:textAlignment="textEnd"
+                   android:textSize="20dp"
+                   android:textColor="@android:color/darker_gray"
+                   android:fontFamily="@font/abel"
+                   android:layout_gravity="end"
+                   android:clickable="true"
+                   android:text="¿Has olvidado tu contraseña?"/>
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/inicioSesion"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginBottom="70dp"
+                    android:backgroundTint="#70617C"
+                    android:text="@string/inicio"
+                    android:textColor="#FFFFFF"
+                    android:transitionName="buttonSignInTrans"/>
+
+            <com.google.android.gms.common.SignInButton
+                android:id="@+id/loginGoogle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginBottom="50dp" />
+
+            <TextView
+                   android:id="@+id/nuevoUsuario"
+                   android:layout_width="250dp"
+                   android:layout_height="wrap_content"
+                   android:textAlignment="center"
+                   android:textSize="20dp"
+                   android:textColor="@android:color/darker_gray"
+                   android:fontFamily="@font/abel"
+                   android:layout_gravity="center"
+                   android:clickable="true"
+                   android:focusable="true"
+                   android:textStyle="bold"
+                   android:text="@string/eresNuevo"
+                   android:transitionName="newUserTrans"/>
+
+
+        </LinearLayout>
+</LinearLayout>

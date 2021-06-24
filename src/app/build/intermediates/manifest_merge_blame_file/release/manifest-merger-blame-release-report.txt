@@ -1,0 +1,398 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.imoviesmanager"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->[androidx.navigation:navigation-ui:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\42c524eb9d33be504a9fff31a1799e15\navigation-ui-2.3.5\AndroidManifest.xml:22:9-38
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:25:5-68
+14-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:25:22-65
+15    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+15-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+15-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+16
+17    <application
+17-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:9:5-56:19
+18        android:allowBackup="true"
+18-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:10:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.6.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9c829c4e88c15a7dd0dcfa1e0dd04efc\core-1.6.0-beta01\AndroidManifest.xml:24:18-86
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:11:9-43
+21        android:label="@string/nombreApp"
+21-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:12:9-42
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:13:9-54
+23        android:supportsRtl="true"
+23-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:14:9-35
+24        android:theme="@style/Theme.IMoviesManager" >
+24-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:15:9-52
+25        <activity
+25-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:16:9-19:80
+26            android:name="com.example.imoviesmanager.ForgotPassword"
+26-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:17:13-43
+27            android:label="@string/title_activity_forgot_password"
+27-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:18:13-67
+28            android:theme="@style/Theme.IMoviesManager.NoActionBar" />
+28-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:19:13-68
+29        <activity android:name="com.example.imoviesmanager.MainActivity" >
+29-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:20:9-26:20
+29-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:20:19-47
+30            <intent-filter>
+30-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:21:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:22:17-69
+31-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:22:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:24:17-77
+33-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:27:9-31:59
+37            android:name="com.example.imoviesmanager.ResultadosBarraBusquedaActivity"
+37-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:28:13-60
+38            android:label="@string/title_activity_resultados_barra_busqueda"
+38-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:29:13-77
+39            android:parentActivityName="com.example.imoviesmanager.InicioActivity"
+39-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:31:13-57
+40            android:theme="@style/Theme.IMoviesManager.NoActionBar" />
+40-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:30:13-68
+41        <activity
+41-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:32:9-36:59
+42            android:name="com.example.imoviesmanager.DetallesPeliculasActivity"
+42-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:33:13-54
+43            android:label="@string/title_activity_detalles_peliculas"
+43-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:34:13-70
+44            android:parentActivityName="com.example.imoviesmanager.InicioActivity"
+44-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:36:13-57
+45            android:theme="@style/Theme.IMoviesManager.NoActionBar" />
+45-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:35:13-68
+46        <activity
+46-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:37:9-40:71
+47            android:name="com.example.imoviesmanager.InicioActivity"
+47-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:38:13-43
+48            android:label="@string/tiulo_inicio"
+48-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:39:13-49
+49            android:theme="@style/Theme.IMoviesManager.NoActionBar" />
+49-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:40:13-68
+50        <activity
+50-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:41:9-43:71
+51            android:name="com.example.imoviesmanager.LoginActivity"
+51-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:42:13-42
+52            android:theme="@style/Theme.IMoviesManager.NoActionBar" />
+52-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:43:13-68
+53        <activity
+53-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:44:9-46:71
+54            android:name="com.example.imoviesmanager.SignUpActivity"
+54-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:45:13-43
+55            android:theme="@style/Theme.IMoviesManager.NoActionBar" />
+55-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:46:13-68
+56        <activity
+56-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:48:9-51:20
+57            android:name="com.example.imoviesmanager.FavoritesActivity"
+57-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:48:19-52
+58            android:parentActivityName="com.example.imoviesmanager.InicioActivity" >
+58-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:49:19-63
+59        </activity>
+60
+61        <meta-data
+61-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:53:9-55:57
+62            android:name="preloaded_fonts"
+62-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:54:13-43
+63            android:resource="@array/preloaded_fonts" />
+63-->C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:55:13-54
+64
+65        <service
+65-->[com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:29:9-35:19
+66            android:name="com.google.firebase.components.ComponentDiscoveryService"
+66-->[com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:30:13-84
+67            android:directBootAware="true"
+67-->[com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+68            android:exported="false" >
+68-->[com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:31:13-37
+69            <meta-data
+69-->[com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:32:13-34:85
+70                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+70-->[com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:33:17-109
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:34:17-82
+72            <meta-data
+72-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:20:13-22:85
+73                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+73-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:21:17-111
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:22:17-82
+75            <meta-data
+75-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+76                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+76-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+77                android:value="com.google.firebase.components.ComponentRegistrar" />
+77-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+78            <meta-data
+78-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+79                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+79-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+80                android:value="com.google.firebase.components.ComponentRegistrar" />
+80-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+81            <meta-data
+81-->[com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:18:13-20:85
+82                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+82-->[com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:19:17-115
+83                android:value="com.google.firebase.components.ComponentRegistrar" />
+83-->[com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:20:17-82
+84            <meta-data
+84-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+85                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+85-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+86                android:value="com.google.firebase.components.ComponentRegistrar" />
+86-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+87        </service>
+88
+89        <provider
+89-->[com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+90            android:name="com.squareup.picasso.PicassoProvider"
+90-->[com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+91            android:authorities="com.example.imoviesmanager.com.squareup.picasso"
+91-->[com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+92            android:exported="false" />
+92-->[com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+93
+94        <activity
+94-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+95            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+95-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+96            android:excludeFromRecents="true"
+96-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+97            android:exported="false"
+97-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+98-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+99        <!--
+100            Service handling Google Sign-In user revocation. For apps that do not integrate with
+101            Google Sign-In, this service will never be started.
+102        -->
+103        <service
+103-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+104            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+104-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+105            android:exported="true"
+105-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+106            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+106-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+107            android:visibleToInstantApps="true" />
+107-->[com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+108
+109        <activity
+109-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+110            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+110-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+111            android:excludeFromRecents="true"
+111-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+112            android:exported="true"
+112-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+113            android:launchMode="singleTask"
+113-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+114            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+114-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+115            <intent-filter>
+115-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+116                <action android:name="android.intent.action.VIEW" />
+116-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+116-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+117
+118                <category android:name="android.intent.category.DEFAULT" />
+118-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+118-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+119                <category android:name="android.intent.category.BROWSABLE" />
+119-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+119-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+120
+121                <data
+121-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+122                    android:host="firebase.auth"
+122-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+123                    android:path="/"
+123-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+124                    android:scheme="genericidp" />
+124-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+125            </intent-filter>
+126        </activity>
+127        <activity
+127-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+128            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+128-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+129            android:excludeFromRecents="true"
+129-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+130            android:exported="true"
+130-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+131            android:launchMode="singleTask"
+131-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+132            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+132-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+133            <intent-filter>
+133-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+134                <action android:name="android.intent.action.VIEW" />
+134-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+134-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+135
+136                <category android:name="android.intent.category.DEFAULT" />
+136-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+136-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+137                <category android:name="android.intent.category.BROWSABLE" />
+137-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+137-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+138
+139                <data
+139-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+140                    android:host="firebase.auth"
+140-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+141                    android:path="/"
+141-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+142                    android:scheme="recaptcha" />
+142-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+143            </intent-filter>
+144        </activity>
+145
+146        <service
+146-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+147            android:name="com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService"
+147-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+148            android:enabled="true"
+148-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+149            android:exported="false" >
+149-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+150            <intent-filter>
+150-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+151                <action android:name="com.google.firebase.auth.api.gms.service.START" />
+151-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+151-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+152
+153                <category android:name="android.intent.category.DEFAULT" />
+153-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+153-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+154            </intent-filter>
+155        </service>
+156
+157        <activity
+157-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+158            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+158-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+159            android:exported="false"
+159-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+160            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+160-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+161
+162        <receiver
+162-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+163            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+163-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+164            android:enabled="true"
+164-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+165            android:exported="false" >
+165-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+166        </receiver>
+167
+168        <service
+168-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+169            android:name="com.google.android.gms.measurement.AppMeasurementService"
+169-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+170            android:enabled="true"
+170-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+171            android:exported="false" />
+171-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+172        <service
+172-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+173            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+173-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+174            android:enabled="true"
+174-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+175            android:exported="false"
+175-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+176            android:permission="android.permission.BIND_JOB_SERVICE" />
+176-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+177
+178        <provider
+178-->[com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+179            android:name="com.google.firebase.provider.FirebaseInitProvider"
+179-->[com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+180            android:authorities="com.example.imoviesmanager.firebaseinitprovider"
+180-->[com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+181            android:directBootAware="true"
+181-->[com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+182            android:exported="false"
+182-->[com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+183            android:initOrder="100" />
+183-->[com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+184
+185        <meta-data
+185-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+186            android:name="com.google.android.gms.version"
+186-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+187            android:value="@integer/google_play_services_version" />
+187-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+188
+189        <provider
+189-->[androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:26:9-34:20
+190            android:name="androidx.startup.InitializationProvider"
+190-->[androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:27:13-67
+191            android:authorities="com.example.imoviesmanager.androidx-startup"
+191-->[androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:28:13-68
+192            android:exported="false" >
+192-->[androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:29:13-37
+193            <meta-data
+193-->[androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:31:13-33:52
+194                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+194-->[androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:32:17-75
+195                android:value="androidx.startup" />
+195-->[androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:33:17-49
+196        </provider>
+197
+198        <service
+198-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+199            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+199-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+200            android:exported="false" >
+200-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+201            <meta-data
+201-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+202                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+202-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+203                android:value="cct" />
+203-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+204        </service>
+205        <service
+205-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+206            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+206-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+207            android:exported="false"
+207-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+208            android:permission="android.permission.BIND_JOB_SERVICE" >
+208-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+209        </service>
+210
+211        <receiver
+211-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+212            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+212-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
+213            android:exported="false" />
+213-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+214    </application>
+215
+216</manifest>

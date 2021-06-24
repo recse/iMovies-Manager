@@ -1,0 +1,767 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b024f25cee6d595c936e978537cf99bc\jetified-viewbinding-4.1.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\42c524eb9d33be504a9fff31a1799e15\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0-rc01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d713575e22693c4ac28a00b08ed4f308\material-1.4.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e518bc40151f1f7e55f165b6121202b4\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.shobhitpuri.custombuttons:google-signin:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0fad43d2cbeb6ad1400546703f282907\jetified-google-signin-1.0.0\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.appcompat:appcompat:1.4.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\58a18e85db0453059f6396541f9df2c7\appcompat-1.4.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6a6f864a6e8fac78f560e295d819b0af\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c0ce27e9cb507a42ad2725bc6fc06da4\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f085580d0b17c8845d6596f4fbbc3636\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d37e64ad5f002c689fc9c4656c7f581b\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\134f93ad6ae391f07a4ce79b8340f2d8\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4bee8c49f9680de334186ca9d50a94b9\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0fc7069be98027bd344dc6a6794a2899\jetified-firebase-appcheck-interop-16.0.0-beta01\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\709c973a2e0e06fd9dd3de1a592dc780\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3d3b0d8973ff35835c09c1e8d29eb338\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\36ef4071dacd993da151cd5a5a420870\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5c72c02f01304940c5459dc2a0b2fb65\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f1bae9ea09e23567af80856d3ca70fce\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e8ad9e5086bc333e0a2316340581cc6a\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e6153f3e170afab2aacf9edc303564ad\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\190a15bb398240fca3cb407553cb2f31\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\922460e7a66a826649da25f0af8eef6c\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6faeeb31e203ac4ee4dd2346692d5f0e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\720666b883d2b13ce0be4c49ed1e06f0\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0eea5bf01337cd9fe8f7e47d710e895e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4c5ebd07fc47250c011155a4d378a292\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\babaa1c545434c9a55dd51ed133b768d\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\031b0a14f4330de4f5b3cf05df0c9083\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\407cf72de850c38dc99750d21e689e2f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\638b7c51d5e66db8b281c852dd1d0819\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\707da69fe23d40b2ab18e607a7db3520\jetified-appcompat-resources-1.4.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6eb738ae42e22739f2eecbe7d8b540d8\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\25c1d3f4a83b777c0c5fe8a179b8cb2c\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c00a2be9ad30c469aa1431317dc8f0c4\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df82eb3d98844a217a1997e7cd4d3364\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d446b43e02800b774d5325836d8545f4\jetified-activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c433a18605a2618aa19b41d5ffd043b9\jetified-emoji2-views-helper-1.0.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cca0ddc1afa9b026edec0e4a691acee4\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37e06405b26cbea8a7d83122dc27139c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e9a0b66b3a7e5207a670b0d7ce73ca37\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\713f43d533f3ccab2aca665c6cc7f220\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b5e814648595a76c47b7af045d4eccb7\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\198c84f542d82fac43ccbd926d8dce41\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f15bb5aa8930624f175bc3fe54883182\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f543e725e547bdfe6397a2d3511871db\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0de02dd45e7ab789746e7ed46d29385e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d09c82082086d3e8a4242b9b1a8adb1e\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1c5c1739dba96772dd0667af00bc2539\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9c829c4e88c15a7dd0dcfa1e0dd04efc\core-1.6.0-beta01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3d9b3e122808b1832221a11c88da341b\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a7eeb4b4f816465e4874b349739a213c\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c9030aa84a995047c23f6952fcbb4912\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c90c44e012ee495220868ee572bbc00b\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\72e5be624e49f81c67682d7a6282d102\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5b3af15ac833574a6892cb9df9fb1b0e\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\63811673cba5c6d2da6a5356adaed37f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f42c9ae94302d13b0cd9b96a29ad261d\jetified-transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\87a77c46a970d66f62fa90b332223756\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\85918ecd2ca0c526f536e48e6c822c2d\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9e4e29684bc40fa7e961a1c27b2d1bf7\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1e86c8ab3269460ddac9533d69993a92\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\2b763e6337459c16cc4581a84b05a269\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3f76237054ebf7c671ac694da6b109e6\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d8c84d5cf8e7c17d19bde7ba6163166\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1508946f8892c4f1a1229fbeb86ea6dc\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\874e18aa0ace7a209ae70e1b2b2cc7ef\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\598a9886a155d5583cd57b9f780fb0d0\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\88d5e04ee61b7d611f744715a0dc25b8\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\505af425603524ab7791f223f914d6ee\jetified-volley-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\115828739683fdcbe65a92929cf41d37\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\526a4ce12300621a4d506862d7ead121\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\af7dfb2c0f2009f6184afd88767de1e3\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6faeeb31e203ac4ee4dd2346692d5f0e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6faeeb31e203ac4ee4dd2346692d5f0e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6faeeb31e203ac4ee4dd2346692d5f0e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6faeeb31e203ac4ee4dd2346692d5f0e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\af7dfb2c0f2009f6184afd88767de1e3\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\af7dfb2c0f2009f6184afd88767de1e3\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:9:5-56:19
+MERGED from [com.google.android.material:material:1.4.0-rc01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d713575e22693c4ac28a00b08ed4f308\material-1.4.0-rc01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0-rc01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d713575e22693c4ac28a00b08ed4f308\material-1.4.0-rc01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e518bc40151f1f7e55f165b6121202b4\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e518bc40151f1f7e55f165b6121202b4\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.shobhitpuri.custombuttons:google-signin:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0fad43d2cbeb6ad1400546703f282907\jetified-google-signin-1.0.0\AndroidManifest.xml:11:5-13:38
+MERGED from [com.shobhitpuri.custombuttons:google-signin:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0fad43d2cbeb6ad1400546703f282907\jetified-google-signin-1.0.0\AndroidManifest.xml:11:5-13:38
+MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0fc7069be98027bd344dc6a6794a2899\jetified-firebase-appcheck-interop-16.0.0-beta01\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0fc7069be98027bd344dc6a6794a2899\jetified-firebase-appcheck-interop-16.0.0-beta01\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\36ef4071dacd993da151cd5a5a420870\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\36ef4071dacd993da151cd5a5a420870\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5c72c02f01304940c5459dc2a0b2fb65\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5c72c02f01304940c5459dc2a0b2fb65\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f1bae9ea09e23567af80856d3ca70fce\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f1bae9ea09e23567af80856d3ca70fce\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e8ad9e5086bc333e0a2316340581cc6a\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e8ad9e5086bc333e0a2316340581cc6a\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\190a15bb398240fca3cb407553cb2f31\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\190a15bb398240fca3cb407553cb2f31\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\922460e7a66a826649da25f0af8eef6c\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\922460e7a66a826649da25f0af8eef6c\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\720666b883d2b13ce0be4c49ed1e06f0\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\720666b883d2b13ce0be4c49ed1e06f0\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0eea5bf01337cd9fe8f7e47d710e895e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0eea5bf01337cd9fe8f7e47d710e895e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4c5ebd07fc47250c011155a4d378a292\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4c5ebd07fc47250c011155a4d378a292\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.6.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9c829c4e88c15a7dd0dcfa1e0dd04efc\core-1.6.0-beta01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9c829c4e88c15a7dd0dcfa1e0dd04efc\core-1.6.0-beta01\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9e4e29684bc40fa7e961a1c27b2d1bf7\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9e4e29684bc40fa7e961a1c27b2d1bf7\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d8c84d5cf8e7c17d19bde7ba6163166\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d8c84d5cf8e7c17d19bde7ba6163166\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9c829c4e88c15a7dd0dcfa1e0dd04efc\core-1.6.0-beta01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:12:9-42
+	android:roundIcon
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:15:9-52
+activity#com.example.imoviesmanager.ForgotPassword
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:16:9-19:80
+	android:label
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:18:13-67
+	android:theme
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:19:13-68
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:17:13-43
+activity#com.example.imoviesmanager.MainActivity
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.imoviesmanager.ResultadosBarraBusquedaActivity
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:27:9-31:59
+	android:parentActivityName
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:31:13-57
+	android:label
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:29:13-77
+	android:theme
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:30:13-68
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:28:13-60
+activity#com.example.imoviesmanager.DetallesPeliculasActivity
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:32:9-36:59
+	android:parentActivityName
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:36:13-57
+	android:label
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:34:13-70
+	android:theme
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:35:13-68
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:33:13-54
+activity#com.example.imoviesmanager.InicioActivity
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:37:9-40:71
+	android:label
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:39:13-49
+	android:theme
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:40:13-68
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:38:13-43
+activity#com.example.imoviesmanager.LoginActivity
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:41:9-43:71
+	android:theme
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:43:13-68
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:42:13-42
+activity#com.example.imoviesmanager.SignUpActivity
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:44:9-46:71
+	android:theme
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:46:13-68
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:45:13-43
+activity#com.example.imoviesmanager.FavoritesActivity
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:parentActivityName
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:49:19-63
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:48:19-52
+meta-data#preloaded_fonts
+ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:53:9-55:57
+	android:resource
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:55:13-54
+	android:name
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml:54:13-43
+uses-sdk
+INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b024f25cee6d595c936e978537cf99bc\jetified-viewbinding-4.1.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.3] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b024f25cee6d595c936e978537cf99bc\jetified-viewbinding-4.1.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\42c524eb9d33be504a9fff31a1799e15\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\42c524eb9d33be504a9fff31a1799e15\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0-rc01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d713575e22693c4ac28a00b08ed4f308\material-1.4.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0-rc01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d713575e22693c4ac28a00b08ed4f308\material-1.4.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e518bc40151f1f7e55f165b6121202b4\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e518bc40151f1f7e55f165b6121202b4\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.shobhitpuri.custombuttons:google-signin:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0fad43d2cbeb6ad1400546703f282907\jetified-google-signin-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.shobhitpuri.custombuttons:google-signin:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0fad43d2cbeb6ad1400546703f282907\jetified-google-signin-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.4.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\58a18e85db0453059f6396541f9df2c7\appcompat-1.4.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\58a18e85db0453059f6396541f9df2c7\appcompat-1.4.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6a6f864a6e8fac78f560e295d819b0af\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6a6f864a6e8fac78f560e295d819b0af\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c0ce27e9cb507a42ad2725bc6fc06da4\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c0ce27e9cb507a42ad2725bc6fc06da4\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f085580d0b17c8845d6596f4fbbc3636\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f085580d0b17c8845d6596f4fbbc3636\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d37e64ad5f002c689fc9c4656c7f581b\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d37e64ad5f002c689fc9c4656c7f581b\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\134f93ad6ae391f07a4ce79b8340f2d8\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\134f93ad6ae391f07a4ce79b8340f2d8\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4bee8c49f9680de334186ca9d50a94b9\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4bee8c49f9680de334186ca9d50a94b9\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0fc7069be98027bd344dc6a6794a2899\jetified-firebase-appcheck-interop-16.0.0-beta01\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0fc7069be98027bd344dc6a6794a2899\jetified-firebase-appcheck-interop-16.0.0-beta01\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\709c973a2e0e06fd9dd3de1a592dc780\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\709c973a2e0e06fd9dd3de1a592dc780\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3d3b0d8973ff35835c09c1e8d29eb338\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3d3b0d8973ff35835c09c1e8d29eb338\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\36ef4071dacd993da151cd5a5a420870\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\36ef4071dacd993da151cd5a5a420870\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5c72c02f01304940c5459dc2a0b2fb65\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5c72c02f01304940c5459dc2a0b2fb65\jetified-firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f1bae9ea09e23567af80856d3ca70fce\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f1bae9ea09e23567af80856d3ca70fce\jetified-play-services-measurement-sdk-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e8ad9e5086bc333e0a2316340581cc6a\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e8ad9e5086bc333e0a2316340581cc6a\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e6153f3e170afab2aacf9edc303564ad\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e6153f3e170afab2aacf9edc303564ad\jetified-firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\190a15bb398240fca3cb407553cb2f31\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\190a15bb398240fca3cb407553cb2f31\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\922460e7a66a826649da25f0af8eef6c\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\922460e7a66a826649da25f0af8eef6c\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6faeeb31e203ac4ee4dd2346692d5f0e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6faeeb31e203ac4ee4dd2346692d5f0e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\720666b883d2b13ce0be4c49ed1e06f0\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\720666b883d2b13ce0be4c49ed1e06f0\jetified-play-services-measurement-base-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0eea5bf01337cd9fe8f7e47d710e895e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0eea5bf01337cd9fe8f7e47d710e895e\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4c5ebd07fc47250c011155a4d378a292\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\4c5ebd07fc47250c011155a4d378a292\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\babaa1c545434c9a55dd51ed133b768d\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\babaa1c545434c9a55dd51ed133b768d\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\031b0a14f4330de4f5b3cf05df0c9083\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\031b0a14f4330de4f5b3cf05df0c9083\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\407cf72de850c38dc99750d21e689e2f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\407cf72de850c38dc99750d21e689e2f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\638b7c51d5e66db8b281c852dd1d0819\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\638b7c51d5e66db8b281c852dd1d0819\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\707da69fe23d40b2ab18e607a7db3520\jetified-appcompat-resources-1.4.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\707da69fe23d40b2ab18e607a7db3520\jetified-appcompat-resources-1.4.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6eb738ae42e22739f2eecbe7d8b540d8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6eb738ae42e22739f2eecbe7d8b540d8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\25c1d3f4a83b777c0c5fe8a179b8cb2c\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\25c1d3f4a83b777c0c5fe8a179b8cb2c\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c00a2be9ad30c469aa1431317dc8f0c4\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c00a2be9ad30c469aa1431317dc8f0c4\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df82eb3d98844a217a1997e7cd4d3364\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df82eb3d98844a217a1997e7cd4d3364\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d446b43e02800b774d5325836d8545f4\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d446b43e02800b774d5325836d8545f4\jetified-activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c433a18605a2618aa19b41d5ffd043b9\jetified-emoji2-views-helper-1.0.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c433a18605a2618aa19b41d5ffd043b9\jetified-emoji2-views-helper-1.0.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cca0ddc1afa9b026edec0e4a691acee4\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cca0ddc1afa9b026edec0e4a691acee4\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37e06405b26cbea8a7d83122dc27139c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37e06405b26cbea8a7d83122dc27139c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e9a0b66b3a7e5207a670b0d7ce73ca37\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e9a0b66b3a7e5207a670b0d7ce73ca37\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\713f43d533f3ccab2aca665c6cc7f220\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\713f43d533f3ccab2aca665c6cc7f220\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b5e814648595a76c47b7af045d4eccb7\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\b5e814648595a76c47b7af045d4eccb7\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\198c84f542d82fac43ccbd926d8dce41\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\198c84f542d82fac43ccbd926d8dce41\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f15bb5aa8930624f175bc3fe54883182\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f15bb5aa8930624f175bc3fe54883182\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f543e725e547bdfe6397a2d3511871db\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f543e725e547bdfe6397a2d3511871db\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0de02dd45e7ab789746e7ed46d29385e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\0de02dd45e7ab789746e7ed46d29385e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d09c82082086d3e8a4242b9b1a8adb1e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\d09c82082086d3e8a4242b9b1a8adb1e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1c5c1739dba96772dd0667af00bc2539\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1c5c1739dba96772dd0667af00bc2539\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9c829c4e88c15a7dd0dcfa1e0dd04efc\core-1.6.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0-beta01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9c829c4e88c15a7dd0dcfa1e0dd04efc\core-1.6.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3d9b3e122808b1832221a11c88da341b\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3d9b3e122808b1832221a11c88da341b\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a7eeb4b4f816465e4874b349739a213c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a7eeb4b4f816465e4874b349739a213c\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c9030aa84a995047c23f6952fcbb4912\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c9030aa84a995047c23f6952fcbb4912\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c90c44e012ee495220868ee572bbc00b\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\c90c44e012ee495220868ee572bbc00b\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\72e5be624e49f81c67682d7a6282d102\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\72e5be624e49f81c67682d7a6282d102\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5b3af15ac833574a6892cb9df9fb1b0e\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5b3af15ac833574a6892cb9df9fb1b0e\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\63811673cba5c6d2da6a5356adaed37f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\63811673cba5c6d2da6a5356adaed37f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f42c9ae94302d13b0cd9b96a29ad261d\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\f42c9ae94302d13b0cd9b96a29ad261d\jetified-transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\87a77c46a970d66f62fa90b332223756\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\87a77c46a970d66f62fa90b332223756\jetified-firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\85918ecd2ca0c526f536e48e6c822c2d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\85918ecd2ca0c526f536e48e6c822c2d\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9e4e29684bc40fa7e961a1c27b2d1bf7\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9e4e29684bc40fa7e961a1c27b2d1bf7\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1e86c8ab3269460ddac9533d69993a92\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1e86c8ab3269460ddac9533d69993a92\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\2b763e6337459c16cc4581a84b05a269\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\2b763e6337459c16cc4581a84b05a269\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3f76237054ebf7c671ac694da6b109e6\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\3f76237054ebf7c671ac694da6b109e6\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d8c84d5cf8e7c17d19bde7ba6163166\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d8c84d5cf8e7c17d19bde7ba6163166\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1508946f8892c4f1a1229fbeb86ea6dc\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1508946f8892c4f1a1229fbeb86ea6dc\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\874e18aa0ace7a209ae70e1b2b2cc7ef\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\874e18aa0ace7a209ae70e1b2b2cc7ef\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\598a9886a155d5583cd57b9f780fb0d0\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\598a9886a155d5583cd57b9f780fb0d0\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\88d5e04ee61b7d611f744715a0dc25b8\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\88d5e04ee61b7d611f744715a0dc25b8\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\505af425603524ab7791f223f914d6ee\jetified-volley-1.2.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\505af425603524ab7791f223f914d6ee\jetified-volley-1.2.0\AndroidManifest.xml:5:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\115828739683fdcbe65a92929cf41d37\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\115828739683fdcbe65a92929cf41d37\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\526a4ce12300621a4d506862d7ead121\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\526a4ce12300621a4d506862d7ead121\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\af7dfb2c0f2009f6184afd88767de1e3\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\af7dfb2c0f2009f6184afd88767de1e3\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		ADDED from [androidx.navigation:navigation-ui:2.3.5] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\42c524eb9d33be504a9fff31a1799e15\navigation-ui-2.3.5\AndroidManifest.xml:22:9-38
+	android:minSdkVersion
+		INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\recse\Desktop\PROYECTO FIN DE CURSO\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\9b607fa98320add0446ab476c19625dd\jetified-firebase-database-20.0.0\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:23.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\724b3441644d173c539a54a3206a38cd\jetified-firebase-firestore-23.0.1\AndroidManifest.xml:21:17-111
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a2822d0bd1e5d5de28f6481fd95442df\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5dfe00ec177d135be874f599691921dc\jetified-play-services-auth-19.0.0\AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df2f3aac29b36ef7d6638d7c86242d96\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\37561aebe2342277e91da290d8f5b5e8\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6faeeb31e203ac4ee4dd2346692d5f0e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\6faeeb31e203ac4ee4dd2346692d5f0e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\429e393381e87b4245763c2f97ef61cc\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\281888bf50ce58e39b8f77fb9d9ae449\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\aed617247fec6e1d093e6229cf12c0a0\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:18.0.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\e12aa14063f83d1e7a5eddaf30fcb72c\jetified-firebase-crashlytics-18.0.1\AndroidManifest.xml:19:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\a8e0c32bae5cf5b51e4025f4fab8fe35\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d6378c82e0dd49eb8b0a40c9f80d352\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\ddd7f71666b3d5ae1df497eee5489805\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d8c84d5cf8e7c17d19bde7ba6163166\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\1d8c84d5cf8e7c17d19bde7ba6163166\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0-alpha01] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\cd7bc42eac63a30940160cd942934eda\jetified-emoji2-1.0.0-alpha01\AndroidManifest.xml:32:17-75
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\5f484be31d3c05a4c06bd6a235ce3827\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\recse\.jdks\corretto-1.8.0_292\caches\transforms-2\files-2.1\df39bf8b405c9ae47dac72e9a475e212\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132

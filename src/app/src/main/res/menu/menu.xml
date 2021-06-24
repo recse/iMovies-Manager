@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_pelis"
+            android:icon="@drawable/icono_peliculas"
+            android:title="Películas"
+            android:checked="true" />
+        <item
+            android:id="@+id/menu_series"
+            android:icon="@drawable/icono_series"
+            android:title="Series de TV"/>
+        <item
+            android:id="@+id/menu_favoritos"
+            android:icon="@drawable/icono_favorito"
+            android:title="Favoritos"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_cerrar"
+            android:icon="@drawable/icono_cerrar"
+            android:title="Cerrar sesión." />
+    </group>
+</menu>

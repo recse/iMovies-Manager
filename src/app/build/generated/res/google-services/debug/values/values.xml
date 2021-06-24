@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">449788640935-hl7fjmsfs2qtia3bnv2u7pq2gcv2b20a.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://proyecto2-a5c61-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">449788640935</string>
+    <string name="google_api_key" translatable="false">AIzaSyD1-EnzT_RUZbFv-077Y1d7h2PtKPZa7Fg</string>
+    <string name="google_app_id" translatable="false">1:449788640935:android:8340275e1f158968102582</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD1-EnzT_RUZbFv-077Y1d7h2PtKPZa7Fg</string>
+    <string name="google_storage_bucket" translatable="false">proyecto2-a5c61.appspot.com</string>
+    <string name="project_id" translatable="false">proyecto2-a5c61</string>
+</resources>

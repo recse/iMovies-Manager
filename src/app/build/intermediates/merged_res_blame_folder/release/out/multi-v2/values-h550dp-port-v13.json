@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\recse\\.jdks\\corretto-1.8.0_292\\caches\\transforms-2\\files-2.1\\d713575e22693c4ac28a00b08ed4f308\\material-1.4.0-rc01\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

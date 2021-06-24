@@ -1,0 +1,39 @@
+<resources>
+    <!-- Tema base. -->
+    <style name="Theme.IMoviesManager" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Colores primarios. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Transiciones. -->
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowSharedElementEnterTransition">
+            @transition/transicion
+        </item>
+        <item name="android:windowSharedElementExitTransition">
+            @transition/transicion
+        </item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="Theme.IMoviesManager.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.IMoviesManager.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+
+    <style name="Theme.IMoviesManager.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light" />
+
+
+    <!-- Estilos para los nombres de categorias -->
+    <style name="Categorias" parent="Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/TextoCategorias</item>
+    </style>
+
+    <!-- Estilo de texto para los nombres de categorias  -->
+    <style name="TextoCategorias" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#70617C</item>
+    </style>
+</resources>

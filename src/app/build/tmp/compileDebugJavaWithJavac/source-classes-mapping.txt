@@ -1,0 +1,113 @@
+com/example/imoviesmanager/SeriesFragmento.java
+ com.example.imoviesmanager.SeriesFragmento
+ com.example.imoviesmanager.SeriesFragmento$1
+ com.example.imoviesmanager.SeriesFragmento$2
+ com.example.imoviesmanager.SeriesFragmento$3
+ com.example.imoviesmanager.SeriesFragmento$4
+ com.example.imoviesmanager.SeriesFragmento$5
+ com.example.imoviesmanager.SeriesFragmento$6
+com/example/imoviesmanager/BuildConfig.java
+ com.example.imoviesmanager.BuildConfig
+com/example/imoviesmanager/databinding/AppBarBinding.java
+ com.example.imoviesmanager.databinding.AppBarBinding
+com/example/imoviesmanager/databinding/ActivityForgotPasswordBinding.java
+ com.example.imoviesmanager.databinding.ActivityForgotPasswordBinding
+com/example/imoviesmanager/databinding/NavHeaderInicioBinding.java
+ com.example.imoviesmanager.databinding.NavHeaderInicioBinding
+com/example/imoviesmanager/databinding/ActivityDetallesPeliculasBinding.java
+ com.example.imoviesmanager.databinding.ActivityDetallesPeliculasBinding
+com/example/imoviesmanager/databinding/ActivitySignUpBinding.java
+ com.example.imoviesmanager.databinding.ActivitySignUpBinding
+com/example/imoviesmanager/databinding/ContenidoInicioBinding.java
+ com.example.imoviesmanager.databinding.ContenidoInicioBinding
+com/example/imoviesmanager/API.java
+ com.example.imoviesmanager.API
+com/example/imoviesmanager/ResultadosBarraBusquedaActivity.java
+ com.example.imoviesmanager.ResultadosBarraBusquedaActivity
+ com.example.imoviesmanager.ResultadosBarraBusquedaActivity$1
+ com.example.imoviesmanager.ResultadosBarraBusquedaActivity$2
+com/example/imoviesmanager/PeliculasFragmento.java
+ com.example.imoviesmanager.PeliculasFragmento
+ com.example.imoviesmanager.PeliculasFragmento$1
+ com.example.imoviesmanager.PeliculasFragmento$2
+ com.example.imoviesmanager.PeliculasFragmento$3
+ com.example.imoviesmanager.PeliculasFragmento$4
+ com.example.imoviesmanager.PeliculasFragmento$5
+ com.example.imoviesmanager.PeliculasFragmento$6
+com/example/imoviesmanager/FavoritesActivity.java
+ com.example.imoviesmanager.FavoritesActivity
+com/example/imoviesmanager/databinding/FragmentPeliculasBinding.java
+ com.example.imoviesmanager.databinding.FragmentPeliculasBinding
+com/example/imoviesmanager/usuario.java
+ com.example.imoviesmanager.usuario
+com/example/imoviesmanager/LoginActivity.java
+ com.example.imoviesmanager.LoginActivity
+ com.example.imoviesmanager.LoginActivity$1
+ com.example.imoviesmanager.LoginActivity$2
+ com.example.imoviesmanager.LoginActivity$3
+ com.example.imoviesmanager.LoginActivity$4
+ com.example.imoviesmanager.LoginActivity$5
+ com.example.imoviesmanager.LoginActivity$6
+com/example/imoviesmanager/databinding/ActivityInicioBinding.java
+ com.example.imoviesmanager.databinding.ActivityInicioBinding
+com/example/imoviesmanager/SeriesFavoritasFragmento.java
+ com.example.imoviesmanager.SeriesFavoritasFragmento
+ com.example.imoviesmanager.SeriesFavoritasFragmento$1
+com/example/imoviesmanager/ForgotPassword.java
+ com.example.imoviesmanager.ForgotPassword
+ com.example.imoviesmanager.ForgotPassword$1
+ com.example.imoviesmanager.ForgotPassword$2
+com/example/imoviesmanager/databinding/ActivityLoginBinding.java
+ com.example.imoviesmanager.databinding.ActivityLoginBinding
+com/example/imoviesmanager/databinding/ActivityMainBinding.java
+ com.example.imoviesmanager.databinding.ActivityMainBinding
+com/example/imoviesmanager/databinding/ViewholderPeliculasTopBinding.java
+ com.example.imoviesmanager.databinding.ViewholderPeliculasTopBinding
+com/example/imoviesmanager/databinding/ContenidoDetallesPeliculasBinding.java
+ com.example.imoviesmanager.databinding.ContenidoDetallesPeliculasBinding
+com/example/imoviesmanager/PeliculasFavoritasFragmento.java
+ com.example.imoviesmanager.PeliculasFavoritasFragmento
+ com.example.imoviesmanager.PeliculasFavoritasFragmento$1
+com/example/imoviesmanager/databinding/FragmentMoviesFavoritesBinding.java
+ com.example.imoviesmanager.databinding.FragmentMoviesFavoritesBinding
+com/example/imoviesmanager/SignUpActivity.java
+ com.example.imoviesmanager.SignUpActivity
+ com.example.imoviesmanager.SignUpActivity$1
+ com.example.imoviesmanager.SignUpActivity$2
+ com.example.imoviesmanager.SignUpActivity$3
+com/example/imoviesmanager/databinding/FragmentPeliculasFavoritasBinding.java
+ com.example.imoviesmanager.databinding.FragmentPeliculasFavoritasBinding
+com/example/imoviesmanager/databinding/LayoutResultadoBusquedaBinding.java
+ com.example.imoviesmanager.databinding.LayoutResultadoBusquedaBinding
+com/example/imoviesmanager/databinding/FragmentSeriesFavoritasFragmentoBinding.java
+ com.example.imoviesmanager.databinding.FragmentSeriesFavoritasFragmentoBinding
+com/example/imoviesmanager/databinding/FragmentSeriesFragmentoBinding.java
+ com.example.imoviesmanager.databinding.FragmentSeriesFragmentoBinding
+com/example/imoviesmanager/InicioActivity.java
+ com.example.imoviesmanager.InicioActivity
+ com.example.imoviesmanager.InicioActivity$1
+ com.example.imoviesmanager.InicioActivity$2
+com/example/imoviesmanager/MainActivity.java
+ com.example.imoviesmanager.MainActivity
+ com.example.imoviesmanager.MainActivity$1
+com/example/imoviesmanager/PeliculasAdaptador.java
+ com.example.imoviesmanager.PeliculasAdaptador
+ com.example.imoviesmanager.PeliculasAdaptador$1
+ com.example.imoviesmanager.PeliculasAdaptador$ViewHolder
+com/example/imoviesmanager/Peliculas.java
+ com.example.imoviesmanager.Peliculas
+com/example/imoviesmanager/DetallesPeliculasActivity.java
+ com.example.imoviesmanager.DetallesPeliculasActivity
+ com.example.imoviesmanager.DetallesPeliculasActivity$1
+ com.example.imoviesmanager.DetallesPeliculasActivity$2
+com/example/imoviesmanager/databinding/ActivityResultadosBarraBusquedaBinding.java
+ com.example.imoviesmanager.databinding.ActivityResultadosBarraBusquedaBinding
+com/example/imoviesmanager/ResultadoBarraBusquedaAdaptador.java
+ com.example.imoviesmanager.ResultadoBarraBusquedaAdaptador
+ com.example.imoviesmanager.ResultadoBarraBusquedaAdaptador$1
+ com.example.imoviesmanager.ResultadoBarraBusquedaAdaptador$2
+ com.example.imoviesmanager.ResultadoBarraBusquedaAdaptador$ViewHolder
+com/example/imoviesmanager/FavoritesViewPagerAdapter.java
+ com.example.imoviesmanager.FavoritesViewPagerAdapter
+com/example/imoviesmanager/databinding/ActivityFavoritesBinding.java
+ com.example.imoviesmanager.databinding.ActivityFavoritesBinding

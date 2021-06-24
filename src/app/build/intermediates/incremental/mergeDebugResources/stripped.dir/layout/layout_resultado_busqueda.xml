@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="4dp"
+    android:paddingBottom="4dp"
+    android:background="#ddd">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cv_search_results"
+        android:layout_marginTop="16dp"
+        android:background="#fff"
+        android:elevation="8dp"
+        tools:ignore="MissingConstraints">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="180dp"
+                android:src="@drawable/top"
+                android:id="@+id/iv_search_results_image"
+                android:layout_marginStart="16dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:contentDescription="@string/poster"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/iv_search_results_image"
+                android:layout_toEndOf="@+id/iv_search_results_image"
+                android:layout_marginLeft="16dp"
+                android:layout_marginStart="16dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxLines="1"
+                    android:id="@+id/tv_search_results_movie_title"
+                    android:textColor="@android:color/black"
+                    android:text="Titulo de la película"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp"
+                    android:layout_marginTop="8dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imagen_primera_estrella_resultado_busqueda"
+                        android:src="@drawable/icono_favoritos_negro"
+                        android:contentDescription="TODO"
+                        app:tint="@android:color/black" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imagen_segunda_estrella_resultado_busqueda"
+                        android:src="@drawable/icono_favoritos_negro"
+                        android:contentDescription="TODO"
+                        app:tint="@android:color/black" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imagen_tercera_estrella_resultado_busqueda"
+                        android:src="@drawable/icono_favoritos_negro"
+                        android:contentDescription="TODO"
+                        app:tint="@android:color/black" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imagen_cuarta_estrella_resultado_busqueda"
+                        android:src="@drawable/icono_favoritos_negro"
+                        android:contentDescription="TODO"
+                        app:tint="@android:color/black" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/imagen_quinta_estrella_resultado_busqueda"
+                        android:src="@drawable/icono_favoritos_negro"
+                        android:contentDescription="TODO"
+                        app:tint="@android:color/black" />
+
+                </LinearLayout>
+
+                <Button
+                    android:layout_width="160dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/bt_search_results_add_to_fav"
+                    android:text="@string/borrar_favoritos"
+                    android:background="@android:color/holo_green_light"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginLeft="22dp"
+                    android:layout_marginStart="22dp"/>
+
+                <Button
+                    android:layout_width="160dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/bt_search_results_watch_trailer"
+                    android:text="@string/ver_trailer"
+                    android:layout_marginTop="14dp"
+                    android:layout_marginStart="22dp"
+                    android:layout_marginLeft="22dp"
+                    android:background="@android:color/holo_green_light"/>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

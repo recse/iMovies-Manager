@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_peliculas.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\fragment_peliculas.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\layout_resultado_busqueda.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\layout_resultado_busqueda.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_resultados_barra_busqueda.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\activity_resultados_barra_busqueda.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_series_favoritas_fragmento.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\fragment_series_favoritas_fragmento.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\contenido_detalles_peliculas.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\contenido_detalles_peliculas.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_series_fragmento.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\fragment_series_fragmento.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\app_bar.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\content_forgot_password.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\content_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_peliculas_favoritas.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\fragment_peliculas_favoritas.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\nav_header_inicio.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\nav_header_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\fragment_movies_favorites.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\fragment_movies_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_inicio.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_favorites.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\activity_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\viewholder_peliculas_top.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\viewholder_peliculas_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\contenido_inicio.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\contenido_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_detalles_peliculas.xml",
+        "source": "C:\\Users\\recse\\Desktop\\PROYECTO FIN DE CURSO\\app\\src\\main\\res\\layout\\activity_detalles_peliculas.xml"
+    }
+]

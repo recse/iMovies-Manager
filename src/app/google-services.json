@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449788640935",
+    "firebase_url": "https://proyecto2-a5c61-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "proyecto2-a5c61",
+    "storage_bucket": "proyecto2-a5c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449788640935:android:8340275e1f158968102582",
+        "android_client_info": {
+          "package_name": "com.example.imoviesmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449788640935-r2gp61nn9olr6vlsnu57a5a65k3ithe4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imoviesmanager",
+            "certificate_hash": "18f8587bf5e9bdb8190c8e4c7bc754135243b8ec"
+          }
+        },
+        {
+          "client_id": "449788640935-hl7fjmsfs2qtia3bnv2u7pq2gcv2b20a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1-EnzT_RUZbFv-077Y1d7h2PtKPZa7Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449788640935-hl7fjmsfs2qtia3bnv2u7pq2gcv2b20a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

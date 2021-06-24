@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="altura_edit_text">50dp</dimen>
+    <dimen name="padding_edit_text">10dp</dimen>
+
+    <dimen name="margen_horizontal_activity">16dp</dimen>
+    <dimen name="margen_vertical_activity">16dp</dimen>
+    <dimen name="espacio_header_navegador">8dp</dimen>
+    <dimen name="altura_header_navegador">176dp</dimen>
+    <dimen name="margen_favoritos">16dp</dimen>
+    <dimen name="altura_barra_contextual">180dp</dimen>
+    <dimen name="margen_texto">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
